@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="4hVHnFBqN6TVC3SldSlN" name="Página-1">
-        <mxGraphModel dx="1526" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1351" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -44,7 +44,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="opc= 1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF99CC;" parent="1" vertex="1">
+                <mxCell id="11" value="opc== 1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF99CC;" parent="1" vertex="1">
                     <mxGeometry x="393.75" y="520" width="87.5" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="69" style="edgeStyle=none;html=1;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="16">
@@ -71,7 +71,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;opc= 2&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                <mxCell id="17" value="&lt;font color=&quot;#000000&quot;&gt;opc== 2&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
                     <mxGeometry x="250" y="610" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="63" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="20">
@@ -98,7 +98,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="&lt;font color=&quot;#000000&quot;&gt;opc= 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99FFCC;" parent="1" vertex="1">
+                <mxCell id="23" value="&lt;font color=&quot;#000000&quot;&gt;opc== 3&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99FFCC;" parent="1" vertex="1">
                     <mxGeometry x="190" y="720" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="28">
@@ -125,7 +125,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="opc= 4" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;gradientColor=default;fillColor=#9999FF;" vertex="1" parent="1">
+                <mxCell id="29" value="opc== 4" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;gradientColor=default;fillColor=#9999FF;" vertex="1" parent="1">
                     <mxGeometry x="100" y="800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="32">
@@ -152,7 +152,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="36" value="opc=5" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#33FF33;gradientColor=default;" vertex="1" parent="1">
+                <mxCell id="36" value="opc==5" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#33FF33;gradientColor=default;" vertex="1" parent="1">
                     <mxGeometry x="30" y="900" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" style="edgeStyle=none;html=1;fontColor=#000000;" edge="1" parent="1" source="40" target="52">
@@ -171,7 +171,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="&lt;font color=&quot;#000000&quot;&gt;opc=6&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+                <mxCell id="40" value="&lt;font color=&quot;#000000&quot;&gt;opc==6&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
                     <mxGeometry x="-90" y="960" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="42">
